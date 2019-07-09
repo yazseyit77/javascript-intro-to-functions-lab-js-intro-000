@@ -23,19 +23,3 @@ function sayHiToGrandma(string){
     return string;
   }
 }
-
-var uppercase = "HELLO!";
-var string = "YES INDEED"
-
-function sayHiToGrandma(string){
-  if(uppercase.toUpperCase() === uppercase){
-    return string;
-  }
-}
-
-var luv = "I love you, Grandma.";
-function sayHiToGrandma(string){
-  if(luv === "I love you, Grandma."){
-    return "I love you, too.";
-  }
-}
